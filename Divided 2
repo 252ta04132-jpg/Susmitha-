@@ -1,0 +1,14 @@
+#include<stdio.h>
+int main(){
+int divided =13;
+int division =4;
+int quotient ;
+int remainder;
+quotient =divided/divisior; 
+remainder=divided%divisior;
+printf("divided:%d/n", divided );
+printf("divisor:%d/n", divisor);
+printf("quotient:%d/n", quotient );
+printf("remainder:%d/n", remainder);
+return 0;
+}
